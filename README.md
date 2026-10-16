@@ -63,6 +63,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [HealthData.gov](https://www.healthdata.gov/) – U.S. healthcare datasets.
 - [OpenNeuro](https://openneuro.org/) – Public data for neuroscience research.
 - [Global Health Observatory (WHO)](https://www.who.int/data/gho) – World Health Organization's open health data.
+- [US Healthcare Job Postings and Posted Pay](https://doi.org/10.5281/zenodo.23395728) – Open dataset (CC BY 4.0) of US healthcare job postings and the pay employers post, from 270 employers' career sites.
 
 ## Financial & Economic Data
 
